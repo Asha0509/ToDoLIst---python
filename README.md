@@ -17,11 +17,11 @@ This is a simple To-Do List application built using Python and Tkinter for the g
 ## Installation
 1. Clone the repository or download the script.
    ```sh
-   git clone https://github.com/your-repository/todo-list.git
+   git clone https://github.com/Asha0509/ToDoLIst---python.git
    ```
 2. Navigate to the project directory.
    ```sh
-   cd todo-list
+   cd ToDoLIst---python
    ```
 3. Run the script.
    ```sh
@@ -38,3 +38,9 @@ This is a simple To-Do List application built using Python and Tkinter for the g
 ## File Structure
 - `todo_list.py` - Main script containing the application logic.
 - `listOfTasks.db` - SQLite database file (automatically created).
+
+## Contributing
+If you want to contribute to this project, feel free to fork the repository and submit a pull request.
+
+
+
